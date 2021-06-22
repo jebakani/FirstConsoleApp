@@ -12,6 +12,7 @@ namespace FirstConsoleApp
             int variableTwo = 1;
             int variableThree = 5;
             int result = Addition(variableTwo, variableThree);
+
             Console.WriteLine("Addition:" + result);
             Console.WriteLine("Multiplication in class:" + operation.Multiplication(5, 3));
             Console.WriteLine(varialbleOne + variableTwo);
